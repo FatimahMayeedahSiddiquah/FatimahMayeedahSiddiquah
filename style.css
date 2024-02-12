@@ -1,0 +1,33 @@
+body{
+	background-image: url(https://www.ecampusnews.com/files/2015/11/cyberscience3D.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	text-align: center;
+}
+#heading{
+	color: orange;
+	background: lightyellow;
+	border: 5px dashed red;
+	margin: 50px 50px 50px 50px;
+}
+.sp{
+	color:blue;
+}
+.sp2{
+	color: green;
+	font-family: cursive;
+	font-size: 24px;
+	background: lightyellow;
+}
+.para{
+	border: 5px solid pink;
+	background: white;
+	font-size: 22px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 35px;
+	margin-left: 35px; 
+}
